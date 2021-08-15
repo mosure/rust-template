@@ -1,2 +1,8 @@
 # rust-template
-Rust bazel template repository
+Rust template repository
+
+## Build
+`cargo build`
+
+## Run
+`cargo run`
